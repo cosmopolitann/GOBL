@@ -8,6 +8,9 @@ func main(){
 	s:=testfeibo(5)
 	fmt.Println(s)
 	//sadfa
+  fmt.Println("在这里修改了一个bug")
+a:=10
+fmt.Println(a)
 
 
 
