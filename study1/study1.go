@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+//fsdfafdasf
 //这个是包 名 不一定和 文件名一样  但是一样是为了 方便调用
 
 //函数的调用机制
